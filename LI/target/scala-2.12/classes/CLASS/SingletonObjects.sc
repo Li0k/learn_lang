@@ -9,7 +9,7 @@ object X {
 }
 
 //实现工厂模式
-class Bar(foo: String)
+class Bar(foo:                                                                    String)
 
 object Bar {
   def apply(foo: String) = new Bar(foo)

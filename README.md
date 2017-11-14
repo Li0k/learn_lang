@@ -1,2 +1,2 @@
 # learn_scala
-learn scala together follow qiangshen fall_death
+learn some language and some demo

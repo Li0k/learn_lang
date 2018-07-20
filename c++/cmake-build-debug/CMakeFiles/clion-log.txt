@@ -1,0 +1,4 @@
+"/Users/liiiyu/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-1/181.5281.33/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/liiiyu/Documents/project/c++/coro
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/liiiyu/Documents/project/c++/coro/cmake-build-debug

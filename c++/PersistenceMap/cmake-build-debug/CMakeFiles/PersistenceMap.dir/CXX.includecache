@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liiiyu/Documents/project/c++/PersistenceMap/PersistenceMap.cpp
+PersistenceMap.h
+/Users/liiiyu/Documents/project/c++/PersistenceMap/PersistenceMap.h
+
+/Users/liiiyu/Documents/project/c++/PersistenceMap/PersistenceMap.h
+iostream
+-
+unordered_map
+-
+fstream
+-
+
+/Users/liiiyu/Documents/project/c++/PersistenceMap/main.cpp
+iostream
+-
+PersistenceMap.h
+/Users/liiiyu/Documents/project/c++/PersistenceMap/PersistenceMap.h
+
